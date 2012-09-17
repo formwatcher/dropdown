@@ -1,0 +1,15 @@
+{
+  "name": "dropdown",
+  "repo": "formwatcher/dropdown",
+  "description": "Beautiful dropdown input fields.",
+  "version": "0.0.1-dev",
+  "keywords": [ "form", "formwatcher", "dropdown", "unobtrusive" ],
+  "dependencies": {
+    "formwatcher/formwatcher": "*",
+    "component/jquery": "*",
+    "component/dropdown": "*"
+  },
+  "development": {},
+  "scripts": [ "index.js" ],
+  "styles": [ "dropdown.css" ]
+}
